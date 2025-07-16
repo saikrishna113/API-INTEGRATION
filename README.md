@@ -238,4 +238,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+## OUTPUT:
+<img width="1894" height="905" alt="Image" src="https://github.com/user-attachments/assets/b5738d34-3d7b-4410-a338-0c5ad3f771f4" />
 
+<img width="1897" height="803" alt="Image" src="https://github.com/user-attachments/assets/bed871fd-9ca6-4a79-9adc-2b91a0ff7fdf" />
